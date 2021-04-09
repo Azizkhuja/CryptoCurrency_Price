@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# Demo is here
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+http://currencycryptoprice.surge.sh/
 ## Available Scripts
 
 In the project directory, you can run:
